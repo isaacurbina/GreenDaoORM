@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GreenDaoTest</string>
+    <string name="btnSaveNote">Save Note</string>
+    <string name="etNoteTextHint">Text</string>
+    <string name="etNoteComment">Comment</string>
+    <string name="etNoteDateHint">Date</string>
+    <string name="tvNotes">Start writing new notes</string>
+</resources>
